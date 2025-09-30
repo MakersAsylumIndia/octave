@@ -11,7 +11,7 @@ You’ll be using the **GitHub Wiki** to update all your project details in a st
 
 Start by writing a **brief introduction** to your project right here in this `README.md` file:
 
-Our project tries to solve an age old issue. Those hard of hearing cannot experience music in the same way we can. To counter this, we have ccreated a band which converts musical beats and signals to vibrations. This products isn't just for those hard of hearing, but rathel also allows us to experience music in a whole different way. 
+Our project tries to solve an age old issue. Those hard of hearing cannot experience music in the same way we can. To counter this, we have created a band which converts musical beats and signals to vibrations. This products isn't just for those hard of hearing, but rathel also allows us to experience music in a whole different way. 
 
 ---
 
