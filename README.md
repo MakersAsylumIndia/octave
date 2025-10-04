@@ -79,6 +79,9 @@ MIT open source [license](http://opensource.org/licenses/MIT).
 
 ## 📬 Contact/Team
 
-> _List team members and contact emails or GitHub profiles._
+Atharva Chokhani - atharvachokhani@gmail.com
+Aarav Sarawagi - aaravsarawgi154@gmail.com
+Krishna Govinda Ashyanth - krishna.govinda.ashyanth@gmail.com
+Urvk Shetty - urvishetty009@gmail.com
 
 ---
